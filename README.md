@@ -9,10 +9,10 @@ Whether you’re new to academic publishing or just new to this journal, here ar
 You don’t need a fancy structure — clear and simple is great.
 
 **Classic scientific-style outline works well:**
-- **What was the problem or context?**
-- **What did you do (tools, data, workflow)?**
-- **What happened or what did you learn?**
-- **What should someone else take away from this?**
+- What was the problem or context?
+- What did you do (tools, data, workflow)?
+- What happened or what did you learn?
+- What should someone else take away from this?
 
 Think well-documented GitHub README but with more narrative.
 
@@ -20,10 +20,10 @@ Think well-documented GitHub README but with more narrative.
 
 ## Voice and Clarity
 
-- Write like you’re explaining your project to a **smart peer from another field**
-- Use **plain language** and short paragraphs
-- Avoid acronyms unless you explain them once
-- Use an **active voice** where possible
+- Write like you’re explaining your project to a smart peer from another field
+- Use plain language and short paragraphs
+- Avoid acronyms if you can, but if you use them, explain them
+- Use an active voice where possible
 - It's okay to write in your natural voice
 
 ---
