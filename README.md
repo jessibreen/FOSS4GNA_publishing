@@ -1,6 +1,6 @@
-# Writing for the FOSS4GNA Special Issue: Tips for First-Time Authors
+# OpenAccess for OpenSource: Writing and Publishing for the FOSS4GNA Community
 
-Whether you’re new to academic publishing or just new to this journal, here are a few friendly tips to help get your talk from slides to article.
+Whether you’re new to academic publishing or just new to open access, here are a few friendly tips to help get your talk from slides to article.
 
 ---
 
