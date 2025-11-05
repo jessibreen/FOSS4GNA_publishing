@@ -1,5 +1,4 @@
-# Writing for the FOSS4GNA Special Issue: 
-## Tips for First-Time Authors
+# Writing for the FOSS4GNA Special Issue: Tips for First-Time Authors
 
 Whether you’re new to academic publishing or just new to this journal, here are a few friendly tips to help get your talk from slides to article.
 
